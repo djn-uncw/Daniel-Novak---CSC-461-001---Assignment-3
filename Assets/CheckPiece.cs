@@ -5,8 +5,6 @@ using OVR;
 using Oculus.Interaction;
 using Oculus.Interaction.Collections;
 
-// NOTE TO SELF: Script or skeleton pieces need to be fixed so that pieces with multiple children pieces can snap onto the target pieces correctly.
-
 public class CheckPiece : MonoBehaviour
 {
     // Reference variable to the corresponding skeleton piece in Skeleton Goal
